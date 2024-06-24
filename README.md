@@ -1,4 +1,5 @@
 # wotus-wetlands-wetness
+[![DOI](https://zenodo.org/badge/819591937.svg)](https://zenodo.org/doi/10.5281/zenodo.12522623)
 
 ## About
 This repository contains code (R scripts and ArcGIS tools and notebooks) used to estimate federal jurisdictional status for the conterminous US based on different interpretations of the US Supreme Court's majority opinion in Sackett v. EPA.
